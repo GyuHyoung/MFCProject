@@ -60,6 +60,7 @@ void CMFCProjectView::OnDraw(CDC* /*pDC*/)
 	// TODO: 여기에 원시 데이터에 대한 그리기 코드를 추가합니다.
 
 	AfxMessageBox(_T("sadf,sjhfgusbldjjasnjisdlnf~~~~~"));
+	AfxMessageBox(_T("ㅁㄴㅇㄻㄴㄹㄴㄹ"));
 }
 
 
